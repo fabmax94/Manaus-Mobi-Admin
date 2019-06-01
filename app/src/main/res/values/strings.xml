@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Manaus Mobi Admin</string>
+    <string name="empty">Sem resultados encontrados</string>
+    <string name="newImage">Algumas imagens ainda não foram visualizadas</string>
+</resources>

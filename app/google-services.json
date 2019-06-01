@@ -1,0 +1,197 @@
+{
+  "project_info": {
+    "project_number": "552696028513",
+    "firebase_url": "https://tutoria-apps.firebaseio.com",
+    "project_id": "tutoria-apps",
+    "storage_bucket": "tutoria-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552696028513:android:117a495652b1b380",
+        "android_client_info": {
+          "package_name": "com.mobi.samsung.manausmobi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552696028513-ek8oerd5mpfldq0mc3qmh9hkl8357ht0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQznhonpkSU6h3QT1b37ZXg8pHJ_tlJdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552696028513:android:ff3fab4e1e2a67d0",
+        "android_client_info": {
+          "package_name": "br.com.sidia.educa_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552696028513-ek8oerd5mpfldq0mc3qmh9hkl8357ht0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQznhonpkSU6h3QT1b37ZXg8pHJ_tlJdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552696028513:android:da39cb14254b1f43",
+        "android_client_info": {
+          "package_name": "br.com.sidia.educa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552696028513-ek8oerd5mpfldq0mc3qmh9hkl8357ht0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQznhonpkSU6h3QT1b37ZXg8pHJ_tlJdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552696028513:android:a1cfdb8dcdd495b2",
+        "android_client_info": {
+          "package_name": "com.example.cedia.saudecliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552696028513-ek8oerd5mpfldq0mc3qmh9hkl8357ht0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQznhonpkSU6h3QT1b37ZXg8pHJ_tlJdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552696028513:android:451150d323e77cfa",
+        "android_client_info": {
+          "package_name": "com.example.cedia.saudeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552696028513-ek8oerd5mpfldq0mc3qmh9hkl8357ht0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQznhonpkSU6h3QT1b37ZXg8pHJ_tlJdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552696028513:android:a6bf01cd001ce341",
+        "android_client_info": {
+          "package_name": "com.mobi.samsung.manausmobiadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552696028513-ek8oerd5mpfldq0mc3qmh9hkl8357ht0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQznhonpkSU6h3QT1b37ZXg8pHJ_tlJdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
